@@ -22,3 +22,4 @@ This project analyzes data from an **online music store** using **SQL** to suppo
 - SQL client or IDE (e.g., MySQL Workbench, pgAdmin, or DBeaver).
 
 
+![WhatsApp Image 2024-10-22 at 22 03 42](https://github.com/user-attachments/assets/eec8805c-55d7-44de-9804-3034099b4eeb)
